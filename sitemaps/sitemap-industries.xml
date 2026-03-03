@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Add industry pages here -->
+  <url><loc>https://www.airfilters.com.au/industries</loc></url>
+  <url><loc>https://www.airfilters.com.au/airports</loc></url>
+  <url><loc>https://www.airfilters.com.au/aged-care</loc></url>
+  <url><loc>https://www.airfilters.com.au/aquatic-centres</loc></url>
+  <url><loc>https://www.airfilters.com.au/commercial-buildings</loc></url>
+  <url><loc>https://www.airfilters.com.au/construction</loc></url>
+  <url><loc>https://www.airfilters.com.au/data-centres</loc></url>
+  <url><loc>https://www.airfilters.com.au/defence</loc></url>
+  <url><loc>https://www.airfilters.com.au/distribution-centres</loc></url>
+  <url><loc>https://www.airfilters.com.au/electronics</loc></url>
+  <url><loc>https://www.airfilters.com.au/food-beverage</loc></url>
+  <url><loc>https://www.airfilters.com.au/government</loc></url>
+  <url><loc>https://www.airfilters.com.au/pharmaceuticals-and-healthcare</loc></url>
+  <url><loc>https://www.airfilters.com.au/hospitals</loc></url>
+  <url><loc>https://www.airfilters.com.au/hotels</loc></url>
+  <url><loc>https://www.airfilters.com.au/laboratories</loc></url>
+  <url><loc>https://www.airfilters.com.au/mining</loc></url>
+  <url><loc>https://www.airfilters.com.au/mining-ports</loc></url>
+  <url><loc>https://www.airfilters.com.au/offshore-oil-and-gas</loc></url>
+  <url><loc>https://www.airfilters.com.au/oil-and-gas</loc></url>
+  <url><loc>https://www.airfilters.com.au/power-stations</loc></url>
+  <url><loc>https://www.airfilters.com.au/rail-infrastructure</loc></url>
+  <url><loc>https://www.airfilters.com.au/shopping-centres</loc></url>
+  <url><loc>https://www.airfilters.com.au/wind-power</loc></url>
+  <url><loc>https://www.airfilters.com.au/wastewater-sewage</loc></url>
 </urlset>
