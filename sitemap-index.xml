@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <sitemap>
-    <loc>YOUR_PAGES_URL/sitemaps/sitemap-core.xml</loc>
+    <loc>https://airfilters-sitemap.pages.dev/sitemaps/sitemap-core.xml</loc>
   </sitemap>
+
   <sitemap>
-    <loc>YOUR_PAGES_URL/sitemaps/sitemap-industries.xml</loc>
+    <loc>https://airfilters-sitemap.pages.dev/sitemaps/sitemap-industries.xml</loc>
   </sitemap>
+
   <sitemap>
-    <loc>YOUR_PAGES_URL/sitemaps/sitemap-products.xml</loc>
+    <loc>https://airfilters-sitemap.pages.dev/sitemaps/sitemap-products.xml</loc>
   </sitemap>
+
+  <sitemap>
+    <loc>https://airfilters-sitemap.pages.dev/sitemaps/sitemap-projects.xml</loc>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://airfilters-sitemap.pages.dev/sitemaps/sitemap-case-studies.xml</loc>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://airfilters-sitemap.pages.dev/sitemaps/sitemap-faq.xml</loc>
+  </sitemap>
+
 </sitemapindex>
