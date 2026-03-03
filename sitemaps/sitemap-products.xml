@@ -1,4 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Add product/system pages here -->
+
+  <!-- ===================== PRODUCT / CATEGORY HUBS (from your Products menu) ===================== -->
+  <url><loc>https://www.airfilters.com.au/biosafety</loc></url>
+
+  <url><loc>https://www.airfilters.com.au/bushfire-rated-screen-filter</loc></url>
+
+  <url><loc>https://www.airfilters.com.au/testing-air-quality</loc></url>
+  <url><loc>https://www.airfilters.com.au/air-quality-monitoring-tools</loc></url>
+  <url><loc>https://www.airfilters.com.au/testing-and-replacing-chemisorbent-media</loc></url>
+
+  <url><loc>https://www.airfilters.com.au/other-applications</loc></url>
+  <url><loc>https://www.airfilters.com.au/odour-environmental-emission-control</loc></url>
+  <url><loc>https://www.airfilters.com.au/wastewater-odour-control</loc></url>
+
+  <url><loc>https://www.airfilters.com.au/product-specifier</loc></url>
+
+  <url><loc>https://www.airfilters.com.au/equipment-selector-quiz</loc></url>
+
+  <!-- ===================== PRODUCT PAGES (from your flyout lists) ===================== -->
+
+  <!-- Panel Filters -->
+  <url><loc>https://www.airfilters.com.au/carbon-pleated-panel-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/cardboard-disposable-filter-g4-merv8</loc></url>
+  <url><loc>https://www.airfilters.com.au/cardboard-disposable-filter-f6-merv11</loc></url>
+  <url><loc>https://www.airfilters.com.au/cardboard-disposable-filter-f7-merv13</loc></url>
+  <url><loc>https://www.airfilters.com.au/compressor-air-intake-filters</loc></url>
+  <url><loc>https://www.airfilters.com.au/electrical-and-telecommunication-filters</loc></url>
+  <url><loc>https://www.airfilters.com.au/fan-coil-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/flat-panel-filters-15-45</loc></url>
+  <url><loc>https://www.airfilters.com.au/foam-filter-media-and-foam-sheets</loc></url>
+  <url><loc>https://www.airfilters.com.au/grease-filters</loc></url>
+  <url><loc>https://www.airfilters.com.au/high-heat-resistance-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/high-temperature-pre-pleat-and-flat-panel-filters</loc></url>
+  <url><loc>https://www.airfilters.com.au/hydrophobic-mesh-filters</loc></url>
+  <url><loc>https://www.airfilters.com.au/metal-mesh-panel-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/mist-eliminator</loc></url>
+  <url><loc>https://www.airfilters.com.au/nylon-mesh-panel-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/panel-filter-8-10mm-aluminium-frame</loc></url>
+  <url><loc>https://www.airfilters.com.au/service-pleat-frame</loc></url>
+  <url><loc>https://www.airfilters.com.au/truepleat</loc></url>
+  <url><loc>https://www.airfilters.com.au/v-form-metal-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/v-form-metal-panel-filter-merv13/15</loc></url>
+
+  <!-- Multi Pocket Filters -->
+  <url><loc>https://www.airfilters.com.au/advapak-carbon-deep-bed-bag-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/extended-surface-deep-bed-bag-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/glass-fibre-pocket-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/polyester-metal-frame-pocket-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/rigid-pocket-filter</loc></url>
+
+  <!-- Deep Bed Bag Filters -->
+  <url><loc>https://www.airfilters.com.au/advacube-deep-bed-bag-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/advacone-deep-bed-bag-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/advamax-deep-bed-bag-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/four-point-deep-bed-bag-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/multi-point-deep-bed-bag-filter</loc></url>
+
+  <!-- Medium Efficiency Filters -->
+  <url><loc>https://www.airfilters.com.au/advacell-11-extended-surface-mini-pleat</loc></url>
+  <url><loc>https://www.airfilters.com.au/advacell-v-extended-surface-mini-pleat-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/rigid-flow-box-filter</loc></url>
+
+  <!-- Air Filter Media -->
+  <url><loc>https://www.airfilters.com.au/ceiling-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/filter-media</loc></url>
+  <url><loc>https://www.airfilters.com.au/glass-fibre-filter-media</loc></url>
+  <url><loc>https://www.airfilters.com.au/m81-demister-coalescing-pad</loc></url>
+  <url><loc>https://www.airfilters.com.au/paint-stop-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/thrip-media-nylon-mesh-media</loc></url>
+
+  <!-- Gaseous & Odour Control Equipment -->
+  <url><loc>https://www.airfilters.com.au/activated-granular-carbon-v-bank-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/advasorb-v-bank-gas-phase-carbon-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/ammoniasorb-chemisorbant-media-dry-scrubber</loc></url>
+  <url><loc>https://www.airfilters.com.au/beast-bioscrubber</loc></url>
+  <url><loc>https://www.airfilters.com.au/biogas-sulphasorb-fe-chemisorbant-media</loc></url>
+  <url><loc>https://www.airfilters.com.au/canisters</loc></url>
+  <url><loc>https://www.airfilters.com.au/carbon-based-adsorbent-honeycomb-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/carbon-based-adsorbent-matrix-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/carbon-filter-media</loc></url>
+  <url><loc>https://www.airfilters.com.au/carbon-v-cell-bank-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/carbon-v-form-metal-panel-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/chemisorbant-media</loc></url>
+  <url><loc>https://www.airfilters.com.au/chemisorbant-pleated-media-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/chlorine-scrubber-equipment</loc></url>
+  <url><loc>https://www.airfilters.com.au/drum-scrubber</loc></url>
+  <url><loc>https://www.airfilters.com.au/emergency-gas-removal-emergency-gas-scrubber</loc></url>
+  <url><loc>https://www.airfilters.com.au/industrial-vertical-carbon-bed-system</loc></url>
+  <url><loc>https://www.airfilters.com.au/media-purepak-modules</loc></url>
+  <url><loc>https://www.airfilters.com.au/packaged-filter-unit-pfu</loc></url>
+  <url><loc>https://www.airfilters.com.au/packed-bed-system-pbs</loc></url>
+  <url><loc>https://www.airfilters.com.au/pfu-mobile</loc></url>
+  <url><loc>https://www.airfilters.com.au/pfu-mini</loc></url>
+  <url><loc>https://www.airfilters.com.au/radial-flow-carbon-system-rf</loc></url>
+  <url><loc>https://www.airfilters.com.au/side-access-housing-sah</loc></url>
+  <url><loc>https://www.airfilters.com.au/v-bank-carbon-transition-system-vts</loc></url>
+  <url><loc>https://www.airfilters.com.au/vertical-carbon-bed-system-vbs</loc></url>
+
+  <!-- Indoor Air Quality -->
+  <url><loc>https://www.airfilters.com.au/fan-coil-uvgi-system</loc></url>
+  <url><loc>https://www.airfilters.com.au/uvgi-air-purification-system</loc></url>
+  <url><loc>https://www.airfilters.com.au/cassette</loc></url>
+  <url><loc>https://www.airfilters.com.au/virus-irradiation-system-1000</loc></url>
+  <url><loc>https://www.airfilters.com.au/virus-irradiation-unit-viu-mobile</loc></url>
+
+  <!-- HEPA Terminals -->
+  <url><loc>https://www.airfilters.com.au/exhaust-hepa-module</loc></url>
+  <url><loc>https://www.airfilters.com.au/hepa-filter-module</loc></url>
+  <url><loc>https://www.airfilters.com.au/hepa-pharmaflow-module-hepa-terminals</loc></url>
+  <url><loc>https://www.airfilters.com.au/room-side-change-rsc-hepa-module</loc></url>
+  <url><loc>https://www.airfilters.com.au/room-side-adjustable-damper</loc></url>
+  <url><loc>https://www.airfilters.com.au/top-side-access-hepa-terminals</loc></url>
+
+  <!-- Housings -->
+  <url><loc>https://www.airfilters.com.au/advance-alu-trak-slidepak-housing</loc></url>
+  <url><loc>https://www.airfilters.com.au/bag-in-bag-out-bibo-housing-system</loc></url>
+  <url><loc>https://www.airfilters.com.au/electrostatic-precipitator-esp-system</loc></url>
+  <url><loc>https://www.airfilters.com.au/electrostatic-precipitators-esps-600/1000</loc></url>
+  <url><loc>https://www.airfilters.com.au/electrostatic-precipitators-2000/4000</loc></url>
+  <url><loc>https://www.airfilters.com.au/electrostatic-precipitators-centralised</loc></url>
+  <url><loc>https://www.airfilters.com.au/modular-filter-units</loc></url>
+  <url><loc>https://www.airfilters.com.au/multi-function-filtration-unit-mffu</loc></url>
+  <url><loc>https://www.airfilters.com.au/uv-c-odour-control-system</loc></url>
+
+  <!-- Return Air Facia & Grilles -->
+  <url><loc>https://www.airfilters.com.au/return-air-fascia-and-grilles</loc></url>
+
+  <!-- Holding Frames -->
+  <url><loc>https://www.airfilters.com.au/f-type-filter-holding-frame</loc></url>
+  <url><loc>https://www.airfilters.com.au/filter-holding-frame-with-ludwig-clips</loc></url>
+  <url><loc>https://www.airfilters.com.au/filter-holding-frame-with-p-clips</loc></url>
+  <url><loc>https://www.airfilters.com.au/hepa-holding-frame</loc></url>
+
+  <!-- HEPA Filters -->
+  <url><loc>https://www.airfilters.com.au/104mm-gel-seal-mini-pleat-hepa-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/128mm-gel-seal-mini-pleat-hepa-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/117mm-side-gel-type-mini-pleat-hepa-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/81mm-gel-type-mini-pleat-hepa-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/hepa-filter-high-capacity-e10-h14</loc></url>
+  <url><loc>https://www.airfilters.com.au/mini-pleat-filter-ptfe-media</loc></url>
+  <url><loc>https://www.airfilters.com.au/mini-pleat-filter-hepa/ulpa</loc></url>
+  <url><loc>https://www.airfilters.com.au/pharma-ceiling-grid-55-mm-t-section</loc></url>
+  <url><loc>https://www.airfilters.com.au/v-bank-hepa-filter</loc></url>
+
+  <!-- Air Purifiers -->
+  <url><loc>https://www.airfilters.com.au/air-purifier-as-600</loc></url>
+  <url><loc>https://www.airfilters.com.au/air-purifier-as-600-stainless-steel</loc></url>
+  <url><loc>https://www.airfilters.com.au/air-purifier-at-600/-1200</loc></url>
+  <url><loc>https://www.airfilters.com.au/air-purifier-at-2500</loc></url>
+
+  <!-- High Temperature (extra page listed in flyout) -->
+  <url><loc>https://www.airfilters.com.au/gate-filter-glass-fibre</loc></url>
+
+  <!-- Commercial Kitchen Filtration (flyout) -->
+  <url><loc>https://www.airfilters.com.au/filter-fan-units</loc></url>
+  <url><loc>https://www.airfilters.com.au/kitchen-exhaust-unit</loc></url>
+  <url><loc>https://www.airfilters.com.au/odour-neutralisation-system</loc></url>
+  <url><loc>https://www.airfilters.com.au/passive-filtration</loc></url>
+  <url><loc>https://www.airfilters.com.au/reflow-smoke-grease-odour</loc></url>
+  <url><loc>https://www.airfilters.com.au/uv-o-odour-control-system</loc></url>
+
+  <!-- Mist Collectors -->
+  <url><loc>https://www.airfilters.com.au/moisture-separators</loc></url>
+
 </urlset>
