@@ -52,10 +52,7 @@
   <url><loc>https://www.airfilters.com.au/grease-filters</loc></url>
   <url><loc>https://www.airfilters.com.au/high-heat-resistance-filter</loc></url>
   <url><loc>https://www.airfilters.com.au/high-temperature-pre-pleat-and-flat-panel-filters</loc></url>
-  <url><loc>https://www.airfilters.com.au/hydrophobic-mesh-filters</loc></url>
-  <url><loc>https://www.airfilters.com.au/metal-mesh-panel-filter</loc></url>
   <url><loc>https://www.airfilters.com.au/mist-eliminator</loc></url>
-  <url><loc>https://www.airfilters.com.au/nylon-mesh-panel-filter</loc></url>
   <url><loc>https://www.airfilters.com.au/panel-filter-8-10mm-aluminium-frame</loc></url>
   <url><loc>https://www.airfilters.com.au/service-pleat-frame</loc></url>
   <url><loc>https://www.airfilters.com.au/truepleat</loc></url>
@@ -81,6 +78,12 @@
   <url><loc>https://www.airfilters.com.au/advacell-v-extended-surface-mini-pleat-filter</loc></url>
   <url><loc>https://www.airfilters.com.au/rigid-flow-box-filter</loc></url>
 
+  <!-- Mesh Filters and Screens -->
+  <url><loc>https://www.airfilters.com.au/hydrophobic-mesh-filters</loc></url>
+  <url><loc>https://www.airfilters.com.au/metal-mesh-panel-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/nylon-mesh-panel-filter</loc></url>
+  <url><loc>https://www.airfilters.com.au/250mm-micron-mesh-316-screen</loc></url>
+  
   <!-- Air Filter Media -->
   <url><loc>https://www.airfilters.com.au/ceiling-filter</loc></url>
   <url><loc>https://www.airfilters.com.au/filter-media</loc></url>
@@ -214,7 +217,6 @@
   <url><loc>https://www.airfilters.com.au/bio-security-screens</loc></url>
   <url><loc>https://www.airfilters.com.au/bubble-tight-damper</loc></url>
   <url><loc>https://www.airfilters.com.au/gauge-panels</loc></url>
-  <url><loc>https://www.airfilters.com.au/moisture-separators</loc></url>
   <url><loc>https://www.airfilters.com.au/room-side-adjustable-damper</loc></url>
 
   <url><loc>https://www.airfilters.com.au/industries</loc></url>
